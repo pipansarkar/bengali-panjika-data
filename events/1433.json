@@ -1,0 +1,324 @@
+{
+  "bengaliYear": 1433,
+  "panjika": "Bishuddha Siddhanta",
+  "source": "Festival dates: Drik Panchang Bengali calendar for Kolkata (2026, 2027), checked 2026-11-06. Not yet checked against a printed panjika. Muhurta (marriage Agrahayan-Falgun, annaprashan, griha pravesh): Benimadhab Sil Full Panjika 1433 (benimadhabsilpanjika.com), Gregorian dates as printed there. Its Agrahayan and Magh start one day later than Bishuddha, so the Bengali date shown in the app can differ by a day from the printed one. Fixes: 29 Falgun printed 9 Mar but weekday Sunday -> 14 Mar. Left out: annaprashan 25 Poush (time given is for simantonnayan), Chaitra 2 (no date printed), marriage Baishakh-Ashwin (past). Festivals added 2026-11-13 from the Puja & Panchali app (Kartik Puja to Charak eve); see that app's assets/events/1433.json source note for which dates are computed rather than checked.",
+  "_howto": "Dates are YYYY-MM-DD (Gregorian), 15 Apr 2026 - 14 Apr 2027. Times as printed, optional. Do not copy a publisher's descriptive text. Muhurta example: {\"date\": \"2026-11-20\", \"time\": \"20:14-02:40\"}.",
+  "festivals": [
+    {
+      "date": "2026-04-19",
+      "bn": "অক্ষয় তৃতীয়া",
+      "en": "Akshaya Tritiya"
+    },
+    {
+      "date": "2026-06-20",
+      "bn": "জামাইষষ্ঠী",
+      "en": "Jamai Shashthi"
+    },
+    {
+      "date": "2026-07-16",
+      "bn": "রথযাত্রা",
+      "en": "Rath Yatra"
+    },
+    {
+      "date": "2026-07-29",
+      "bn": "গুরুপূর্ণিমা",
+      "en": "Guru Purnima"
+    },
+    {
+      "date": "2026-08-28",
+      "bn": "রাখীবন্ধন",
+      "en": "Raksha Bandhan"
+    },
+    {
+      "date": "2026-09-04",
+      "bn": "জন্মাষ্টমী",
+      "en": "Janmashtami"
+    },
+    {
+      "date": "2026-09-14",
+      "bn": "গণেশ চতুর্থী",
+      "en": "Ganesh Chaturthi"
+    },
+    {
+      "date": "2026-09-17",
+      "bn": "বিশ্বকর্মা পূজা",
+      "en": "Vishwakarma Puja"
+    },
+    {
+      "date": "2026-10-10",
+      "bn": "মহালয়া",
+      "en": "Mahalaya"
+    },
+    {
+      "date": "2026-10-17",
+      "bn": "দুর্গাপূজা · মহাষষ্ঠী (বোধন)",
+      "en": "Durga Puja · Maha Shashthi (Bodhon)"
+    },
+    {
+      "date": "2026-10-18",
+      "bn": "দুর্গাপূজা · মহাসপ্তমী",
+      "en": "Durga Puja · Maha Saptami"
+    },
+    {
+      "date": "2026-10-19",
+      "bn": "দুর্গাপূজা · মহাষ্টমী",
+      "en": "Durga Puja · Maha Ashtami"
+    },
+    {
+      "date": "2026-10-20",
+      "bn": "দুর্গাপূজা · মহানবমী",
+      "en": "Durga Puja · Maha Navami"
+    },
+    {
+      "date": "2026-10-21",
+      "bn": "বিজয়া দশমী",
+      "en": "Vijaya Dashami"
+    },
+    {
+      "date": "2026-10-25",
+      "bn": "কোজাগরী লক্ষ্মীপূজা",
+      "en": "Kojagari Lakshmi Puja"
+    },
+    {
+      "date": "2026-11-08",
+      "bn": "কালীপূজা ও দীপাবলি",
+      "en": "Kali Puja and Dipabali"
+    },
+    {
+      "date": "2026-11-11",
+      "bn": "ভাইফোঁটা",
+      "en": "Bhai Phonta"
+    },
+    {
+      "date": "2026-11-16",
+      "bn": "কার্তিক পূজা (কার্তিক সংক্রান্তি)",
+      "en": "Kartik Puja"
+    },
+    {
+      "date": "2026-11-19",
+      "bn": "জগদ্ধাত্রী পূজা",
+      "en": "Jagaddhatri Puja"
+    },
+    {
+      "date": "2026-11-24",
+      "bn": "রাসপূর্ণিমা",
+      "en": "Rash Purnima"
+    },
+    {
+      "date": "2026-12-15",
+      "bn": "মূলাষষ্ঠী",
+      "en": "Mula Shashthi"
+    },
+    {
+      "date": "2026-12-16",
+      "bn": "ইতু পূজা (অগ্রহায়ণ সংক্রান্তি)",
+      "en": "Itu Puja"
+    },
+    {
+      "date": "2027-02-11",
+      "bn": "সরস্বতী পূজা",
+      "en": "Saraswati Puja"
+    },
+    {
+      "date": "2027-02-12",
+      "bn": "শীতলষষ্ঠী",
+      "en": "Shitala Shashthi"
+    },
+    {
+      "date": "2027-03-06",
+      "bn": "মহাশিবরাত্রি",
+      "en": "Maha Shivaratri"
+    },
+    {
+      "date": "2027-03-22",
+      "bn": "দোলযাত্রা (দোলপূর্ণিমা)",
+      "en": "Dol Yatra (Dol Purnima)"
+    },
+    {
+      "date": "2027-04-12",
+      "bn": "বাসন্তী পূজা · ষষ্ঠী",
+      "en": "Basanti Puja · Shashthi"
+    },
+    {
+      "date": "2027-04-13",
+      "bn": "নীল পূজা",
+      "en": "Neel Puja"
+    },
+    {
+      "date": "2027-04-14",
+      "bn": "অন্নপূর্ণা পূজা",
+      "en": "Annapurna Puja"
+    }
+  ],
+  "marriage": [
+    {
+      "date": "2026-11-21",
+      "time": "সন্ধ্যা ৬:২৭ – রাত ৮:৩২"
+    },
+    {
+      "date": "2026-11-24",
+      "time": "রাত ১:০৩ – ৩:২২, শেষরাত ৫:৩৬ – ৬:০২"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "সন্ধ্যা ৪:৪৭ – রাত ৮:৪১, রাত ১০:৫৭ – ২:৪৩, শেষরাত ৫:৩২ – ৬:০২"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "সন্ধ্যা ৪:৪৭ – রাত ৭:৩৭"
+    },
+    {
+      "date": "2026-12-05",
+      "time": "সন্ধ্যা ৬:২৮ – রাত ১২:৩০, রাত ২:৪০ – শেষরাত ৪:২৮"
+    },
+    {
+      "date": "2026-12-09",
+      "time": "শেষরাত ৪:৩০ – ৬:১১"
+    },
+    {
+      "date": "2026-12-11",
+      "time": "রাত ২:১৮ – ভোর ৬:১২"
+    },
+    {
+      "date": "2026-12-12",
+      "time": "সন্ধ্যা ৬:৩০ – রাত ১২:০৪"
+    },
+    {
+      "date": "2026-12-13",
+      "time": "সন্ধ্যা ৪:৫০ – রাত ১২:০০, রাত ২:৫২ – ভোর ৬:১৪"
+    },
+    {
+      "date": "2027-01-18",
+      "time": "শেষরাত ৩:৪৫ – ভোর ৬:০৪"
+    },
+    {
+      "date": "2027-01-26",
+      "time": "সন্ধ্যা ৫:১৫ – ৬:৪৪, রাত ১:১১ – ভোর ৫:২০"
+    },
+    {
+      "date": "2027-01-28",
+      "time": "রাত ১:২৯ – ভোর ৫:২৪"
+    },
+    {
+      "date": "2027-01-29",
+      "time": "সন্ধ্যা ৬:২৪ – ৮:৩৪, রাত ১২:৫৯ – ভোর ৫:২০"
+    },
+    {
+      "date": "2027-02-11",
+      "time": "সন্ধ্যা ৫:২৬ – রাত ৯:১৬"
+    },
+    {
+      "date": "2027-02-12",
+      "time": "রাত ১১:৩৫ – ৩:০৬"
+    },
+    {
+      "date": "2027-02-16",
+      "time": "সন্ধ্যা ৫:২৯ – ৭:০৫, রাত ৮:৪০ – ১০:৩৯"
+    },
+    {
+      "date": "2027-02-22",
+      "time": "সন্ধ্যা ৫:৩২ – রাত ১০:১৬, রাত ১১:৫১ – ভোর ৪:৪৬"
+    },
+    {
+      "date": "2027-02-24",
+      "time": "রাত ১২:০১ – ১২:৫৭"
+    },
+    {
+      "date": "2027-03-01",
+      "time": "শেষরাত ৩:৪৯ – ভোর ৫:০৬"
+    },
+    {
+      "date": "2027-03-09",
+      "time": "সন্ধ্যা ৬:০২ – ৭:১২, রাত ৮:৪৪ – ১২:৪২, রাত ২:৪৭ – ৪:৩৪"
+    },
+    {
+      "date": "2027-03-14",
+      "time": "রাত ২:৫০ – ৪:১৫"
+    }
+  ],
+  "annaprashan": [
+    {
+      "date": "2026-06-17"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "বিকেল ৫:০১ পর্যন্ত"
+    },
+    {
+      "date": "2026-09-24",
+      "time": "দুপুর ২:৩০ পর্যন্ত"
+    },
+    {
+      "date": "2026-12-14",
+      "time": "সকাল ১১:২৫ পর্যন্ত, বিকেল ৩:৩১ থেকে"
+    },
+    {
+      "date": "2027-01-20",
+      "time": "দুপুর ২:৩৩ পর্যন্ত"
+    },
+    {
+      "date": "2027-02-08",
+      "time": "সকাল ৯:৪১ থেকে"
+    },
+    {
+      "date": "2027-02-11",
+      "time": "দুপুর ২:৩৯ পর্যন্ত"
+    },
+    {
+      "date": "2027-02-18",
+      "time": "দুপুর ২:৪১ পর্যন্ত"
+    },
+    {
+      "date": "2027-02-19",
+      "time": "সকাল ৯:০২ পর্যন্ত"
+    },
+    {
+      "date": "2027-03-10",
+      "time": "দিনভর"
+    },
+    {
+      "date": "2027-03-11",
+      "time": "দুপুর ২:৪৪ পর্যন্ত"
+    },
+    {
+      "date": "2027-04-08",
+      "time": "সকাল ৮:০৯ – দুপুর ২:৪৫"
+    },
+    {
+      "date": "2027-04-11"
+    }
+  ],
+  "griha_pravesh": [
+    {
+      "date": "2026-06-17"
+    },
+    {
+      "date": "2026-11-20",
+      "time": "দুপুর ২:২০ পর্যন্ত"
+    },
+    {
+      "date": "2026-12-09",
+      "time": "সকাল ৮:৫০ পর্যন্ত, দুপুর ১২:৫০ থেকে"
+    },
+    {
+      "date": "2026-12-14",
+      "time": "সকাল ১১:২৫ পর্যন্ত, বিকেল ৩:৩১ থেকে"
+    },
+    {
+      "date": "2027-02-18",
+      "time": "দুপুর ২:৪১ পর্যন্ত"
+    },
+    {
+      "date": "2027-02-19",
+      "time": "সকাল ৯:০২ পর্যন্ত"
+    },
+    {
+      "date": "2027-03-10",
+      "time": "দিনভর"
+    },
+    {
+      "date": "2027-03-11",
+      "time": "দুপুর ২:৪৪ পর্যন্ত"
+    }
+  ]
+}

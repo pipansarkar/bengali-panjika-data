@@ -1,0 +1,201 @@
+{
+  "bengaliYear": 1434,
+  "panjika": "Bishuddha Siddhanta",
+  "source": "Made 2026-11-13 in the Puja & Panchali app for sharing with the Panjika app. Dates checked against Drik Panchang Bengali calendar, Kolkata (2027 and 2028 pages). Not listed by Drik, so computed from tithi/sankranti with tool/festival_dates.dart: Hanuman Jayanti, Phalaharini Kali Puja, Ulto Rath, Manasa Puja, Rash Purnima, Kartik Puja, Mula Shashthi, Itu Puja, Shitala Shashthi, Basanti Puja, Annapurna Puja, Neel Puja. Not yet checked against a printed panjika. Durga Puja 2027 by the tithi at sunrise, Kolkata: Ashtami 7 Oct (holds sunrise 7 and 8 Oct, ends 8 Oct 6:27 am — Sandhi puja around then), Navami 9 Oct (from 8 Oct 6:27 am to 9 Oct 9:02 am), Dashami 10 Oct (ends 11:41 am); same as Drik. The 9 Oct government holiday follows the afternoon rule.",
+  "_howto": "Festivals copied from the Puja & Panchali app. Muhurta lists (marriage, annaprashan, griha_pravesh) not yet entered from a printed panjika.",
+  "festivals": [
+    {
+      "date": "2027-04-15",
+      "bn": "রামনবমী",
+      "en": "Ram Navami"
+    },
+    {
+      "date": "2027-04-20",
+      "bn": "হনুমান জয়ন্তী",
+      "en": "Hanuman Jayanti"
+    },
+    {
+      "date": "2027-05-09",
+      "bn": "অক্ষয় তৃতীয়া",
+      "en": "Akshaya Tritiya"
+    },
+    {
+      "date": "2027-05-20",
+      "bn": "বুদ্ধপূর্ণিমা",
+      "en": "Buddha Purnima"
+    },
+    {
+      "date": "2027-06-04",
+      "bn": "ফলহারিণী কালীপূজা",
+      "en": "Phalaharini Kali Puja"
+    },
+    {
+      "date": "2027-06-10",
+      "bn": "জামাইষষ্ঠী",
+      "en": "Jamai Shashthi"
+    },
+    {
+      "date": "2027-07-05",
+      "bn": "রথযাত্রা",
+      "en": "Rath Yatra"
+    },
+    {
+      "date": "2027-07-13",
+      "bn": "উল্টোরথ",
+      "en": "Ulto Rath"
+    },
+    {
+      "date": "2027-07-18",
+      "bn": "গুরুপূর্ণিমা",
+      "en": "Guru Purnima"
+    },
+    {
+      "date": "2027-08-17",
+      "bn": "মনসা পূজা (শ্রাবণ সংক্রান্তি)",
+      "en": "Manasa Puja"
+    },
+    {
+      "date": "2027-08-17",
+      "bn": "রাখীবন্ধন (ঝুলন পূর্ণিমা)",
+      "en": "Raksha Bandhan"
+    },
+    {
+      "date": "2027-08-25",
+      "bn": "জন্মাষ্টমী",
+      "en": "Janmashtami"
+    },
+    {
+      "date": "2027-09-04",
+      "bn": "গণেশ চতুর্থী",
+      "en": "Ganesh Chaturthi"
+    },
+    {
+      "date": "2027-09-17",
+      "bn": "বিশ্বকর্মা পূজা",
+      "en": "Vishwakarma Puja"
+    },
+    {
+      "date": "2027-09-29",
+      "bn": "মহালয়া",
+      "en": "Mahalaya"
+    },
+    {
+      "date": "2027-10-05",
+      "bn": "দুর্গাপূজা · মহাষষ্ঠী (বোধন)",
+      "en": "Durga Puja · Maha Shashthi (Bodhon)"
+    },
+    {
+      "date": "2027-10-06",
+      "bn": "দুর্গাপূজা · মহাসপ্তমী",
+      "en": "Durga Puja · Maha Saptami"
+    },
+    {
+      "date": "2027-10-07",
+      "bn": "দুর্গাপূজা · মহাষ্টমী",
+      "en": "Durga Puja · Maha Ashtami"
+    },
+    {
+      "date": "2027-10-09",
+      "bn": "দুর্গাপূজা · মহানবমী",
+      "en": "Durga Puja · Maha Navami"
+    },
+    {
+      "date": "2027-10-10",
+      "bn": "বিজয়া দশমী",
+      "en": "Vijaya Dashami"
+    },
+    {
+      "date": "2027-10-14",
+      "bn": "কোজাগরী লক্ষ্মীপূজা",
+      "en": "Kojagari Lakshmi Puja"
+    },
+    {
+      "date": "2027-10-28",
+      "bn": "কালীপূজা",
+      "en": "Kali Puja"
+    },
+    {
+      "date": "2027-10-29",
+      "bn": "দীপাবলি",
+      "en": "Dipabali"
+    },
+    {
+      "date": "2027-10-31",
+      "bn": "ভাইফোঁটা",
+      "en": "Bhai Phonta"
+    },
+    {
+      "date": "2027-11-07",
+      "bn": "জগদ্ধাত্রী পূজা",
+      "en": "Jagaddhatri Puja"
+    },
+    {
+      "date": "2027-11-14",
+      "bn": "রাসপূর্ণিমা",
+      "en": "Rash Purnima"
+    },
+    {
+      "date": "2027-11-17",
+      "bn": "কার্তিক পূজা (কার্তিক সংক্রান্তি)",
+      "en": "Kartik Puja"
+    },
+    {
+      "date": "2027-12-04",
+      "bn": "মূলাষষ্ঠী",
+      "en": "Mula Shashthi"
+    },
+    {
+      "date": "2027-12-16",
+      "bn": "ইতু পূজা (অগ্রহায়ণ সংক্রান্তি)",
+      "en": "Itu Puja"
+    },
+    {
+      "date": "2028-01-31",
+      "bn": "সরস্বতী পূজা",
+      "en": "Saraswati Puja"
+    },
+    {
+      "date": "2028-02-01",
+      "bn": "শীতলষষ্ঠী",
+      "en": "Shitala Shashthi"
+    },
+    {
+      "date": "2028-02-23",
+      "bn": "মহাশিবরাত্রি",
+      "en": "Maha Shivaratri"
+    },
+    {
+      "date": "2028-03-11",
+      "bn": "দোলযাত্রা (দোলপূর্ণিমা)",
+      "en": "Dol Yatra (Dol Purnima)"
+    },
+    {
+      "date": "2028-04-01",
+      "bn": "বাসন্তী পূজা · ষষ্ঠী",
+      "en": "Basanti Puja · Shashthi"
+    },
+    {
+      "date": "2028-04-03",
+      "bn": "অন্নপূর্ণা পূজা",
+      "en": "Annapurna Puja"
+    },
+    {
+      "date": "2028-04-03",
+      "bn": "রামনবমী",
+      "en": "Ram Navami"
+    },
+    {
+      "date": "2028-04-09",
+      "bn": "হনুমান জয়ন্তী",
+      "en": "Hanuman Jayanti"
+    },
+    {
+      "date": "2028-04-12",
+      "bn": "নীল পূজা",
+      "en": "Neel Puja"
+    }
+  ],
+  "marriage": [],
+  "annaprashan": [],
+  "griha_pravesh": []
+}
