@@ -4,7 +4,7 @@
 The PDF is a scan, so a date is accepted only if OCR reads a day that really
 falls on the printed weekday. Any doubt stops the run and publishes nothing.
 """
-import calendar, collections, datetime as dt, difflib, glob, json, os, re, subprocess, sys, tempfile, urllib.error, urllib.request
+import calendar, collections, datetime as dt, difflib, glob, json, os, re, subprocess, sys, tempfile, time, urllib.error, urllib.request
 
 MONTHS = {m: i for i, m in enumerate(calendar.month_name) if m}
 DAYS = list(calendar.day_name)
@@ -131,12 +131,17 @@ def parse(texts, year):
 
 def fetch(year, path):
     req = urllib.request.Request(URL.format(year), headers={'User-Agent': 'Mozilla/5.0'})
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            data = r.read()
-    except urllib.error.HTTPError as e:
-        if e.code == 404: return False
-        raise
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=90) as r:
+                data = r.read()
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 404: return False
+            raise
+        except (urllib.error.URLError, TimeoutError):
+            if attempt == 2: raise
+            time.sleep(20)
     if not data.startswith(b'%PDF'): return False  # the site's "not found" page
     open(path, 'wb').write(data)
     return True
